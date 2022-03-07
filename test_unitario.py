@@ -1,5 +1,6 @@
 # https://docs.pytest.org/en/7.0.x/
 
+#pytest
 
 def func(x):
     return x*x
